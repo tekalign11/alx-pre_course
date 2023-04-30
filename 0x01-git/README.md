@@ -1,1 +1,1 @@
-My first directory
+Updating my readme from github
